@@ -17,7 +17,7 @@ import VueWechatTitle from 'vue-wechat-title'
 import cookies from './plugins/cookies'
 import utils from './plugins/utils'
 
-
+// this is a test commit for main.js
 
 // vuetify
 Vue.config.productionTip = false
